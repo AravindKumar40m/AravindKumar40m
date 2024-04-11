@@ -12,7 +12,7 @@
  <a href="https://twitter.com/aravindkumar40m/"><img color=#000 width=22 height=22 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/icons8-twitterx.svg" /></a>
 <br />
  
-<a href="https://porfolio-aravind-1uavt5mnm-aravinds-projects-aa4d5793.vercel.app/" style="display: inline-block; overflow: hidden; border-radius: 10px;">
+<a href="https://porfolio-aravind-fo7ofcuc1-aravinds-projects-aa4d5793.vercel.app/" style="display: inline-block; overflow: hidden; border-radius: 10px;">
   <img align="center" color=#000 width=150 height=34 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/portfolio.png" />
 </a>
  
@@ -23,7 +23,7 @@
 - 🔭 I'm an aspiring **Front-end Web developer**
 - 🎓 I'm currently pursuing **Bachelor's** in **Information Technology**
 - 🌱 I'm currently learning **Backend-NodeJs**
-- ⚡ How to know me more 👉🏼 <span align="center"> <a href="https://porfolio-aravind-1uavt5mnm-aravinds-projects-aa4d5793.vercel.app/"><img align="center" color=#000 width=32 height=34 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/icons8-website-64.png" /></a></span>
+- ⚡ How to know me more 👉🏼 <span align="center"> <a href="https://porfolio-aravind-fo7ofcuc1-aravinds-projects-aa4d5793.vercel.app/"><img align="center" color=#000 width=32 height=34 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/icons8-website-64.png" /></a></span>
 - 📫 How to reach me 👉🏼 <span align="center" > <a href="mailto:aravindkumar40m@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/icons8-mail.svg" /></a> </span>
 - 📝 How to hire me 👉🏼 <span align="center"><a target="_blank" href="https://github.com/AravindKumar40m/AravindKumar40m/releases/download/resume/Aravind.kumar-Resume.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/icons8-resume-64.png" /></a> </span>
 - ✌🏼️ Do follow me on <span align="center"> <a class="libutton" href="https://www.linkedin.com/in/aravindkumar-m-206702263/" target="_blank"> <img align="center" color=#000 width=32 height=38 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/icons8-linkedin.svg" /> </a> </span>
