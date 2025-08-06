@@ -12,7 +12,7 @@
  <a href="https://twitter.com/aravindkumar40m/"><img color=#000 width=22 height=22 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/icons8-twitterx.svg" /></a>
 <br />
  
-<a href="https://porfolio-aravind-fo7ofcuc1-aravinds-projects-aa4d5793.vercel.app/" style="display: inline-block; overflow: hidden; border-radius: 10px;">
+<a href="https://porfolio-aravind-37zqt1tat-aravinds-projects-aa4d5793.vercel.app/" style="display: inline-block; overflow: hidden; border-radius: 10px;">
   <img align="center" color=#000 width=150 height=34 src="https://github.com/AravindKumar40m/AravindKumar40m/blob/main/images/portfolio.png" />
 </a>
  
